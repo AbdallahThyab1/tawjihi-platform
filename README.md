@@ -23,8 +23,6 @@ An integrated educational platform dedicated to Palestinian Industrial Tawjihi s
 > 🌐 **[Visit the platform](https://abdallahthyab1.github.io/tawjihi-platform/)**  
 > *Fully responsive - works on all devices*
 
-![Screenshot](./screenshot.png)
-<!-- Add a screenshot of the platform here -->
 
 ---
 
